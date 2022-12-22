@@ -8,10 +8,8 @@
 8.  funcion obtenerMensaje(m, x(100)) : x
 9.     v, x(20)[{a-z}, {BS}]
 10.    y, x(20)[{a-z}, {BS}]
-10.    v <-- m
+11.    v <-- m
 12.    y <-- " desde Ecuador"
-11.    retorna v + y
-12. fin funcion obtenerMensaje
-13. Fin
-
-
+13.    retorna v + y
+14. fin funcion obtenerMensaje
+15. Fin
